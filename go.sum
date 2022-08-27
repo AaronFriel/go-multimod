@@ -1,0 +1,4 @@
+github.com/aaronfriel/go-multimod/friel/aws v0.1.0 h1:Xit1FmcVwxo1AViKUG1EhK2ZxmEkGrylgpr/BhzSWfk=
+github.com/aaronfriel/go-multimod/friel/aws v0.1.0/go.mod h1:3vESi0iugPhUy9plFK2M/CFYZoqtvETWJI7vWAWjDjw=
+github.com/aaronfriel/go-multimod/stack72/aws v0.0.2 h1:rKQ73w8lOKf3LdLlygw57LQ8vl4qr/c8EmK3Z39cKhc=
+github.com/aaronfriel/go-multimod/stack72/aws v0.0.2/go.mod h1:R1bCa4OD4oXSxEpe2bsjVNBF4mLKXyP85D77NYrYCIc=
